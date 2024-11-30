@@ -1,3 +1,18 @@
 .main{
-    background-color: #FFC0CB;
+    background-color: #ffc0cb;
+    font-family: Verdana, "DeJavu Sans", sans-serif;
+}
+
+#eventwo {
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+
+#evenfour{
+    background-color: #90ee90;
+    font-weight: 700;
+}
+
+.adjust-font-size{
+    font-size: 24px;
 }
